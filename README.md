@@ -11,6 +11,7 @@ Este estudio aplica métodos de aprendizaje automático supervisado para analiza
 ### Métodos empleados:
 - Regresión Logística (RL)
 - Bosque Aleatorio (BA)
+- LightGBM
 - Redes Neuronales Artificiales (RNA)
 - Máquina de Vectores de Soporte (SVM)
 
